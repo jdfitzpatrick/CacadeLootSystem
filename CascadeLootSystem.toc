@@ -1,0 +1,17 @@
+## Author: Rendren of Pagle | Jonathan Fitzpatrick
+## Interface: 11306
+## Notes: Cascade Loot System for WoW Classic v0.0.1
+## Title: Cascade
+## Version: 0.0.1
+## X-Curse-Project-ID: 0
+## SavedVariables: CascadeDB, CascadeLootDB
+## OptionalDeps: LibStub, CallbackHandler-1.0, Ace3, lib-st, LibWindow-1.1, LibDialog-1.0
+
+## Third Party Imports:
+Libs\import.xml
+
+## Base Module:
+Cascade\import.xml
+
+## WoW API Overrides:
+API\import.xml
