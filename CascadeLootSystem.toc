@@ -8,10 +8,10 @@
 ## OptionalDeps: LibStub, CallbackHandler-1.0, Ace3, lib-st, LibWindow-1.1, LibDialog-1.0
 
 ## Third Party Imports:
-Libs\import.xml
+Libs\Libs.xml
 
 ## Base Module:
-Cascade\import.xml
+Cascade\Cascade.xml
 
 ## WoW API Overrides:
-API\import.xml
+API\API.xml
